@@ -39,4 +39,4 @@ const daftarSiswa = [
 
 const sekolahTadikaMesra = new Sekolahan(daftarSiswa)
 
-console.log(sekolahTadikaMesra.daftarSiswa)
+console.table(sekolahTadikaMesra.daftarSiswa)
